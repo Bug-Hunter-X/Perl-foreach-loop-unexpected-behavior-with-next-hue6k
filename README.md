@@ -1,0 +1,1 @@
+This repository demonstrates a subtle issue in Perl's foreach loop when using the next statement. The example shows how a seemingly simple loop can produce unexpected results if the control flow isn't carefully considered.  The solution offers a clearer way to achieve the desired outcome.
